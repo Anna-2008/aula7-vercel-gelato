@@ -1,1 +1,1 @@
-# aula7-vercel-gelato
+# aula6-java-sushi-gelato
